@@ -1,0 +1,15 @@
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\bin\Debug\net6.0\Deconstruct.exe
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\bin\Debug\net6.0\Deconstruct.deps.json
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\bin\Debug\net6.0\Deconstruct.runtimeconfig.json
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\bin\Debug\net6.0\Deconstruct.dll
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\bin\Debug\net6.0\Deconstruct.pdb
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.csproj.AssemblyReference.cache
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.AssemblyInfoInputs.cache
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.AssemblyInfo.cs
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.csproj.CoreCompileInputs.cache
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.dll
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\refint\Deconstruct.dll
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.pdb
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\Deconstruct.genruntimeconfig.cache
+D:\WorkspaceCSharp\Desconstruct\Desconstruct\obj\Debug\net6.0\ref\Deconstruct.dll
